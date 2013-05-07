@@ -5,7 +5,7 @@
   <groupId>lu.intech</groupId>
   <artifactId>theTest3</artifactId>
   <packaging>war</packaging>
-  <version>0.0.5-SNAPSHOT</version>
+  <version>0.1.0-RELEASE</version>
   <name>theTest3 Maven Webapp</name>
   <url>http://maven.apache.org</url>
   
