@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1> Test intégration et déploiement continu</h1>
+<h1> Test intégration et déploiement continu SNAP 0.0.4</h1>
 	<p>Page générée depuis une JSP</p>
 	
 	<% 
