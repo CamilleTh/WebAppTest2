@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello World! 0.0.7-SNAPSHOT</h2>
+<h2>Hello World! 0.0.8-SNAPSHOT</h2>
 
 </body>
 </html>
