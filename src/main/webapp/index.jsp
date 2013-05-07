@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello World! RELEASE 0.1.1</h2>
+<h2>Hello World! 0.0.6-SNAPSHOT</h2>
 
 </body>
 </html>
