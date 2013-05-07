@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1> Test intégration et déploiement continu 0.0.6-SNAPSHOT</h1>
+<h1> Test intégration et déploiement continu 0.0.7-SNAPSHOT</h1>
 	<p>Page générée depuis une JSP</p>
 	
 	<% 
